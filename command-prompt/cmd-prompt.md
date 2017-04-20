@@ -1,4 +1,6 @@
-I emailed this around, but it's probably better to have a record of it for people in the future.
+## Print full path with cmd prompt
+
+I emailed this around after discussing it with Rory, but it's probably better to have a record of it for people in the future.
 
 When using the Unix command line I find it useful to have the command prompt show the full path.
 
