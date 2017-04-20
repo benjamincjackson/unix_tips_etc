@@ -2,5 +2,5 @@
 
 I'll try and divide things into useful categories for easy look-up. Let me know if you think there is something you would like to see, or to get changed.
 
-[Terminal Appearance](https://github.com/TBooker/Tips-and-Tricks/command-prompt/cmd-prompt.md)
+[Terminal Appearance](https://github.com/TBooker/Tips-and-Tricks/blob/master/command-prompt/cmd-prompt.md)
 
