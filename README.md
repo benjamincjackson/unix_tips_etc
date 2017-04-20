@@ -1,5 +1,6 @@
 ## Tips-and-Tricks
 
-I reckon we should use this as a place to store tips and tricks for using the lab server
+I'll try and divide things into useful categories for easy look-up. Let me know if you think there is something you would like to see, or to get changed.
 
+[Terminal Appearance](https://github.com/TBooker/Tips-and-Tricks/command-prompt/cmd-prompt.md)
 
