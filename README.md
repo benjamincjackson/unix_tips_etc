@@ -5,4 +5,4 @@ I'll try and divide things into useful categories for easy look-up. Let me know 
 [Terminal Appearance](https://github.com/TBooker/Tips-and-Tricks/blob/master/command-prompt/cmd-prompt.md)
 
 
-[Parallelisation and Priority Stuff] (https://github.com/TBooker/Tips-and-Tricks/blob/master/parallelisation-and-priority/nice-and-renice.md)
+[Parallelisation and Priority Stuff](https://github.com/TBooker/Tips-and-Tricks/blob/master/parallelisation-and-priority/nice-and-renice.md)
