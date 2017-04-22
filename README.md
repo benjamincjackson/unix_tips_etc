@@ -12,4 +12,4 @@ I'll try and divide things into useful categories for easy look-up. Let me know 
 
 
 ### Parallelisation and Priority
-* [Parallelisation and Priority Stuff](https://github.com/TBooker/Tips-and-Tricks/blob/master/parallelisation-and-priority/nice-and-renice.md)
+* [Nice and Re-Nice](https://github.com/TBooker/Tips-and-Tricks/blob/master/parallelisation-and-priority/nice-and-renice.md)
