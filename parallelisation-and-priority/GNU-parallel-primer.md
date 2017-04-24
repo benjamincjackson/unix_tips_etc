@@ -29,6 +29,9 @@ Breaking this down you have the program GNU `parallel` being called.
 
  * The `$(my-configs/*)` bit is the list of values you want to apply to the function. This can be anything really, as long as it is an iterable set of items, I usually test this out using a little shell script before I run a big process.
  
+
+There are many, many, many more options and things that you can do. The idea of this little intro is to get you going with the simplest case. [Check out the GNU parallel pages for the proper manual.](https://www.gnu.org/doc/doc.html) 
+ 
  
  #### Examples
  
