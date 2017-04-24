@@ -14,3 +14,9 @@ If `.profile` does not exist, just create it in your preferred text editor.
 Add the following line to the file:
 
 `export PS1="\u@\h:\w $ "`
+
+## Print only current directory *name* in prompt 
+
+If like me (Ben) you found that having the whole path displayed got a bit annoying sometimes when you were a few directories deep, you could use the following line instead of the one above to just display the name of the current folder (without the absolute path):
+
+`export PS1='\u@\h: ${PWD##*/} $ '`
