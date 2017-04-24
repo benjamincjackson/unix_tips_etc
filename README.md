@@ -14,4 +14,4 @@ I'll try and divide things into useful categories for easy look-up. Let me know 
 ### Parallelisation and Priority
 * [Nice and Re-Nice](https://github.com/TBooker/Tips-and-Tricks/blob/master/parallelisation-and-priority/nice-and-renice.md)
 * [nohup](https://github.com/TBooker/Tips-and-Tricks/blob/master/parallelisation-and-priority/nohup-and-%26.md)
-* [GNU parallel - intro]
+* [GNU parallel - intro](https://github.com/TBooker/Tips-and-Tricks/blob/master/parallelisation-and-priority/GNU-parallel-primer.md)
