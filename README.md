@@ -15,3 +15,7 @@ I'll try and divide things into useful categories for easy look-up. Let me know 
 * [Nice and Re-Nice](https://github.com/TBooker/Tips-and-Tricks/blob/master/parallelisation-and-priority/nice-and-renice.md)
 * [nohup](https://github.com/TBooker/Tips-and-Tricks/blob/master/parallelisation-and-priority/nohup-and-%26.md)
 * [GNU parallel - intro](https://github.com/TBooker/Tips-and-Tricks/blob/master/parallelisation-and-priority/GNU-parallel-primer.md)
+
+### Bash
+
+* [Split strings in Bash](https://github.com/TBooker/Tips-and-Tricks/blob/master/Bash/split-strings-in-shell.md)
