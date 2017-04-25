@@ -8,6 +8,7 @@ ${var##*SubStr} # will drop begin of string upto last occur of SubStr
 ${var%SubStr*}  # will drop part of string from last occur of SubStr to the end
 ${var%%SubStr*} # will drop part of string from first occur of SubStr to the end
 ```
+where var is replaced with a string that you want to do something to, and SubStr is the substring that you want to use as the delimiter.
 
 ## Example
 
