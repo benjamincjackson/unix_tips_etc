@@ -19,3 +19,4 @@ I'll try and divide things into useful categories for easy look-up. Let me know 
 ### Bash
 
 * [Split strings in Bash](https://github.com/TBooker/Tips-and-Tricks/blob/master/Bash/split-strings-in-shell.md)
+* [Aliases](https://github.com/TBooker/Tips-and-Tricks/blob/master/Bash/Aliases.md)
