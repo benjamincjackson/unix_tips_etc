@@ -11,8 +11,8 @@ You have to open a new terminal instance to try out your new aliases.
 
 It's also handy to have these for ssh commands, just don't put any password info in, obviously
 ```sh
-alias server1="tommy@KewlServer.co.uk"
-alias server2="tommy@UnKewlServer.co.uk"
+alias server1="ssh tommy@KewlServer.co.uk"
+alias server2="ssh tommy@UnKewlServer.co.uk"
 ```
 
 Now when I want to log into the KewlServer I don't have to remember the full address and type it every time, I can just call the alias I have for it.
