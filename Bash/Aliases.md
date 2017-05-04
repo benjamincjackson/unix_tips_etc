@@ -17,3 +17,13 @@ alias server2="ssh tommy@UnKewlServer.co.uk"
 
 Now when I want to log into the KewlServer I don't have to remember the full address and type it every time, I can just call the alias I have for it.
 
+
+### Aliases on Merlin
+
+You can set up aliases for yourself on Merlin by adding them to the .profile file in your home directory (~/.profile) that Tom made us to create in the [Command Prompt Appearance](https://github.com/TBooker/Tips-and-Tricks/blob/master/command-prompt/cmd-prompt.md) doc.
+
+For example, if you want to run (a specific version of) vcftools (that you might have installed yourself) without having to type its full path, add the following line to ~/.profile
+
+```sh
+alias vcftools="/path/to/vcftools/in/your/programs/folder/on/merlin/vcftools.version"
+```
