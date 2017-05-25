@@ -1,3 +1,5 @@
+A UNIX cheatsheet. Based on Tom's original idea of a repository of useful tips for Merlin use [here](https://github.com/TBooker/Tips-and-Tricks), but with more personal stuff in it.
+
 ### Terminal Aesthetics
 
 * [Command Prompt Appearance](https://github.com/benjamincjackson/unix_tips_etc/blob/master/command-prompt/cmd-prompt.md)
