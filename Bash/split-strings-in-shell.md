@@ -1,6 +1,6 @@
 ### Splitting strings in Bash
 
-This syntax can be used to split (actually delete portions of) strings in different shells, including Bash. I've found it useful when parsing samples out of filenames or from paths, etc.,
+This syntax can be used to split (actually delete portions of) strings in different shells, including Bash.
 
 ```sh
 ${var#*SubStr} # will drop begin of string upto first occur of SubStr
