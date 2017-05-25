@@ -1,4 +1,6 @@
-### directing stderr and/or stdout to file. See http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-3.html
+### directing stderr and/or stdout to file. 
+See http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-3.html
+
 
 Directing stdout to file:
 `command > out`
