@@ -10,7 +10,7 @@ ${var%%SubStr*} # will drop part of string from first occur of SubStr to the end
 ```
 where var is replaced with a string that you want to do something to, and SubStr is the substring that you want to use as the delimiter.
 
-### Alternatuve method
+### Alternative method
 
 I (Tom) do this a slightly different way, which I only add for interest.
 
