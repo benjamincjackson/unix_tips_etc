@@ -1,19 +1,13 @@
 ## GNU parallel - Introduction
 
-If you have what's called an "embarrassingly parallel" problem, i.e. a problem that is perfect for parallelisation, GNU parallel makes it really easy to farm a batch of processes out to multiple threads.
+If you have access to multiple threads, then parallelising a script it is easy using GNU parallel.
 
-Say you had a directory called `my-configs/` in which there were 100 config files for a program, you could run them in a loop using a shel script like so:
+For example, you can just provide a file with a list of bash commands that you want to run, one on each line:
 
 ```sh
-for i in my-configs/*
-  do
-    MyKewlScript $i > $i.out
-  done
+parallel -j5 :::: myCommandsFile
 ```
-
-This would run the program `MyKewlScript` on each of the files in `my-configs` one after the other and store the std-out for each process in a new file suffixed with *.out*.
-
-It is annoying to have to wait for this kind of thing, so if you have access to multiple threads, then parallelising it is easy using GNU parallel, like so:
+Or Tom's example which is one step more complicated: 
 
 ```sh
 parallel -j5 "MyKewlScript {} > {}.out" ::: $(my-configs/*)
