@@ -6,6 +6,7 @@ A UNIX cheatsheet. Based on Tom's original idea of a repository of useful tips f
 * [Aliases](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/Aliases.md)
 * [Helpful functions](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/functions.md)
 * [stdout & stderr](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/stderr-and-stdout.md)
+* [Path](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/path.md)
 
 ### Git/github
 
