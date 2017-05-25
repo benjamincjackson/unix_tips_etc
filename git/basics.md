@@ -25,10 +25,10 @@ Whenever you want to commit changes to the files that you have specified using t
 
 `git commit -m "some description of the commit here"`
 
-Unless you only want to keep this repository locally, you probably also want to upload the repo to github. To do this, first make a repository on github (which you can do using the website or on the command line), and then push:
+Unless you only want to keep this repository locally, you probably also want to upload the repo to github. To do this, first make a repository on github (using the website), and then push to it:
 
 ```sh
-git remote add origin git@github.com:benjamincjackson/test.git # links your local git repo to your github repo
+git remote add origin git@github.com:benjamincjackson/test.git # get this link from github after making the repo
 git push -u origin master # uploads the files
 ```
 
