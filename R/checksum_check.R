@@ -8,6 +8,9 @@ args <- commandArgs(TRUE)
 inFile_1 <- args[1]
 inFile_2 <- args[2]
 
+# TO DO: although i've set the separator to tab here, I think that the md5sum
+# UNIX command actually separates the columns of its output with two spaces.
+# So why does this still work?
 data_1 <- read.delim(inFile_1, header = F, sep = '\t')
 data_2 <- read.delim(inFile_1, header = F, sep = '\t')
 
