@@ -1,5 +1,5 @@
 #### Linearizes a fasta file 
-(put each sequences on one (its own) line, after the sequence line)
+(put each sequences on one (its own) line, after the header line)
 
 ```sh
 awk '/^>/ {printf("\n%s\n",$0);next; } { printf("%s",$0);}  END {printf("\n");}' < INPUT.fa > OUTPUT_online.fa
