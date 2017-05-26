@@ -1,6 +1,8 @@
-A UNIX cheatsheet. Based on Tom's original idea of a repository of useful tips for Merlin use [here](https://github.com/TBooker/Tips-and-Tricks), but with more personal stuff in it.
+A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a repository of useful tips for Merlin use [here](https://github.com/TBooker/Tips-and-Tricks), but with more personal stuff in it.
 
-### Bash
+## Bash
+
+#### General
 
 * [Split strings in Bash](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/split-strings-in-shell.md)
 * [Aliases](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/Aliases.md)
@@ -8,15 +10,22 @@ A UNIX cheatsheet. Based on Tom's original idea of a repository of useful tips f
 * [stdout & stderr](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/stderr-and-stdout.md)
 * [Path](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/path.md) *To Do*
 
-### Git/github
-
-* [Basic use](https://github.com/benjamincjackson/unix_tips_etc/blob/master/git/basics.md)
-
-### Parallelisation and Priority
+#### Parallelisation and Priority
 * [Nice and Re-Nice](https://github.com/benjamincjackson/unix_tips_etc/blob/master/parallelisation-and-priority/nice-and-renice.md)
 * [nohup](https://github.com/benjamincjackson/unix_tips_etc/blob/master/parallelisation-and-priority/nohup-and-%26.md)
 * [GNU parallel - intro](https://github.com/benjamincjackson/unix_tips_etc/blob/master/parallelisation-and-priority/GNU-parallel-primer.md)
 
-### Terminal Aesthetics
+#### Misc
 
-* [Command Prompt Appearance](https://github.com/benjamincjackson/unix_tips_etc/blob/master/command-prompt/cmd-prompt.md)
+ * [Command Prompt Appearance](https://github.com/benjamincjackson/unix_tips_etc/blob/master/command-prompt/cmd-prompt.md)
+
+## R
+
+* [commandArgs](https://github.com/benjamincjackson/unix_tips_etc/blob/master/R/commandArgs.md)
+
+## Bioinformatics
+
+## Git/github
+
+* [Basic use](https://github.com/benjamincjackson/unix_tips_etc/blob/master/git/basics.md)
+
