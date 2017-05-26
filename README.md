@@ -26,6 +26,10 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 
 ## Bioinformatics
 
+#### Fasta files
+
+* [useful shell operations on fasta files](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bioinformatics/fasta_tools.md)
+
 ## Git/github
 
 * [Basic use](https://github.com/benjamincjackson/unix_tips_etc/blob/master/git/basics.md)
