@@ -32,4 +32,4 @@ git remote add origin git@github.com:benjamincjackson/test.git # get this link f
 git push -u origin master # uploads the files
 ```
 
-The above example uses ssh to connect to github. You can set up keys and use ssh without having to type in your username and password every time you push - follow the [instructions on Github](https://help.github.com/articles/checking-for-existing-ssh-keys/). If you use https,, you have to type in your username and password each time. 
+The above example uses ssh to connect to github. You can set up keys and use ssh without having to type in your username and password every time you push - follow the [instructions on Github](https://help.github.com/articles/checking-for-existing-ssh-keys/). If you use https, you have to type in your username and password each time. 
