@@ -2,7 +2,7 @@ Some common operations to look at BAM file headers using samtools:
 
 View the header
 ```
-samtools view -H
+samtools view -H $MYBAMFILE
 ```
 
 Get ReadGroup (RG) info from the header
