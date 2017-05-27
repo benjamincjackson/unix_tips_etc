@@ -1,4 +1,4 @@
-#### Linearizes a fasta file 
+#### Linearize a fasta file 
 Puts each sequence on one (its own) line, after the header line.
 
 ```sh
