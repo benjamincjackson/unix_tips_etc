@@ -30,6 +30,10 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 
 * [useful shell operations on fasta files](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bioinformatics/fasta_tools.md)
 
+#### BAM files
+
+* [useful operations on BAM files](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bioinformatics/BAM_operations.md)
+
 ## Git/github
 
 * [Basic use](https://github.com/benjamincjackson/unix_tips_etc/blob/master/git/basics.md)
