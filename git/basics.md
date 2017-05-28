@@ -1,3 +1,7 @@
+###
+
+[Github introductory article](https://guides.github.com/activities/hello-world/)
+
 ### Basic use of git
 
 When using git for the first time on a new machine, you need to set your username and e-mail:
