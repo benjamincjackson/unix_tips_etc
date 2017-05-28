@@ -1,6 +1,4 @@
-###
-
-[Github introductory article](https://guides.github.com/activities/hello-world/)
+See the [Github introductory article](https://guides.github.com/activities/hello-world/) as well.
 
 ### Basic use of git
 
@@ -37,3 +35,14 @@ git push -u origin master # uploads the files
 ```
 
 The above example uses ssh to connect to github. You can set up keys and use ssh without having to type in your username and password every time you push - follow the [instructions on Github](https://help.github.com/articles/checking-for-existing-ssh-keys/). If you use https, you have to type in your username and password each time. 
+
+
+### Same repo, multiple machines
+
+If you want to work on the same code/project on multiple machines, the workflow is the same as if two people were working on it (not simultaneously). You need to pull changes to the local repo every time before you start editing code:
+
+```sh
+git clone {remote_URL} # IF THIS IS THE FIRST TIME YOU ARE EDITING IT ON THE NEW MACHINE
+git pull
+git pull origin {branch_name} # IF THE ABOVE DOESN'T WORK BY DEFAULT (branch_name could be 'master')
+```
