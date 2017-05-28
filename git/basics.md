@@ -42,7 +42,11 @@ The above example uses ssh to connect to github. You can set up keys and use ssh
 If you want to work on the same code/project on multiple machines, the workflow is the same as if two people were working on it (not simultaneously). You need to pull changes to the local repo every time before you start editing code:
 
 ```sh
-git clone {remote_URL} # IF THIS IS THE FIRST TIME YOU ARE EDITING IT ON THE NEW MACHINE
+# If you need to set up the repo on the local machine, first run:
+git clone {remote_URL} 
+git remote add origin {git@github.com:username/reponame.git}
+# Otherwise/and then use pull to get the latest version:
 git pull
-git pull origin {branch_name} # IF THE ABOVE DOESN'T WORK BY DEFAULT (branch_name could be 'master')
+# Or
+git pull origin {branch_name} # If the above doesn't work by defauly (branch_name could be 'master')
 ```
