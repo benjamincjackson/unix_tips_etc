@@ -8,6 +8,7 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 * [Aliases](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/Aliases.md)
 * [Helpful functions](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/functions.md)
 * [stdout & stderr](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/stderr-and-stdout.md)
+* [for, while, if](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/loops_etc.md)
 * [Path](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/path.md) *To Do*
 
 #### Parallelisation and Priority
