@@ -15,6 +15,7 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 * [Nice and Re-Nice](https://github.com/benjamincjackson/unix_tips_etc/blob/master/parallelisation-and-priority/nice-and-renice.md)
 * [nohup](https://github.com/benjamincjackson/unix_tips_etc/blob/master/parallelisation-and-priority/nohup-and-%26.md)
 * [GNU parallel - intro](https://github.com/benjamincjackson/unix_tips_etc/blob/master/parallelisation-and-priority/GNU-parallel-primer.md)
+* [killing processes](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/killing.md)
 
 #### Misc
 
