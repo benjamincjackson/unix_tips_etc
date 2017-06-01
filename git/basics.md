@@ -50,3 +50,19 @@ git pull
 # Or
 git pull origin {branch_name} # If the above doesn't work by defauly (branch_name could be 'master')
 ```
+
+### Remove files from repos
+
+See [this stackoverflow thread](https://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo) for details.
+
+```sh
+# To remove the file from the filesystem and from the repo:
+git rm FILE
+
+# To remove the file from the repo but not the filesystem:
+git rm --cached FILE
+
+# In either case, then you should commit and push to a remote repo if you want to
+git commit -m "some message"
+git push -u origin master
+```
