@@ -44,4 +44,5 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 ## Git/github
 
 * [Basic use](https://github.com/benjamincjackson/unix_tips_etc/blob/master/git/basics.md)
+* [Making websites with Jekyll](https://github.com/benjamincjackson/unix_tips_etc/blob/master/git/jekyll.md)
 
