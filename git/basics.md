@@ -66,3 +66,6 @@ git rm --cached FILE
 git commit -m "some message"
 git push -u origin master
 ```
+
+### Undo/redo a commit
+For example, if you want to change your commit message, or if you want to add more files to the commit. See [this stackoverflow thread](https://stackoverflow.com/questions/927358/how-do-i-undo-the-last-commits-in-git) for details.
