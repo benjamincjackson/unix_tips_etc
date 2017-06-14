@@ -12,6 +12,6 @@ Add files with the extensions defined in the grep command. This is useful when y
 
 ```sh
 gitaddscripts() {
-  git add `find ./ -type f | grep '.sh$\|.R$\|.txt$\|.py$'`
+  git add `find ./ -type f | grep '.sh$\|.R$\|.txt$\|.py$\|.md$'`
 }
 ```
