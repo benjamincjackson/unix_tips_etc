@@ -18,6 +18,9 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 * [GNU parallel - intro](https://github.com/benjamincjackson/unix_tips_etc/blob/master/parallelisation-and-priority/GNU-parallel-primer.md)
 * [killing processes](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/killing.md)
 
+#### Terminal editors
+* [nano commands](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/nano.md)
+
 #### Misc
 
  * [Command Prompt Appearance](https://github.com/benjamincjackson/unix_tips_etc/blob/master/command-prompt/cmd-prompt.md)
