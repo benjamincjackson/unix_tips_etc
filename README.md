@@ -10,7 +10,7 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 * [stdout & stderr](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/stderr-and-stdout.md)
 * [for, while, if](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/loops_etc.md)
 * [Installing/searching for packages/dependencies](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/installing_programs.md)
-* [Path](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/path.md) *To Do*
+* [Path](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/path.md)
 
 #### Parallelisation and Priority
 * [Nice and Re-Nice](https://github.com/benjamincjackson/unix_tips_etc/blob/master/parallelisation-and-priority/nice-and-renice.md)
