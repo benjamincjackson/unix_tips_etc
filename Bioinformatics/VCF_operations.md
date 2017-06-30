@@ -13,3 +13,9 @@ Extract a specific portion of a VCF file and write to a new file using tabix & b
 ```sh
 tabix input.vcf.gz -h {chr}:{start}-{stop} | bgzip > outfile.vcf.gz; tabix outfile.vcf.gz
 ```
+----
+Get the sample names from a VCF file
+
+```sh
+bcftools query -l file.vcf.gz
+```
