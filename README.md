@@ -31,6 +31,9 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 * [commandArgs](https://github.com/benjamincjackson/unix_tips_etc/blob/master/R/commandArgs.md)
 * [checksum_check.R](https://github.com/benjamincjackson/unix_tips_etc/tree/master/R/checksum_check.R)
 
+## Python
+* [Python basics](https://github.com/benjamincjackson/unix_tips_etc/blob/master/python/general.md)
+
 ## Bioinformatics
 
 #### Fasta files
