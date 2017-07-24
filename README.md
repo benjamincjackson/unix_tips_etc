@@ -32,7 +32,7 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 * [checksum_check.R](https://github.com/benjamincjackson/unix_tips_etc/tree/master/R/checksum_check.R)
 
 ## Python
-* [Python basics](https://github.com/benjamincjackson/unix_tips_etc/blob/master/python/general.md)
+* [Python basics, including parsing arguments on the command line](https://github.com/benjamincjackson/unix_tips_etc/blob/master/python/general.md)
 
 ## Bioinformatics
 
