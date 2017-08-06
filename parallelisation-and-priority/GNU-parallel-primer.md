@@ -7,6 +7,13 @@ For example, you can just provide a file with a list of bash commands that you w
 ```sh
 parallel -j5 :::: myCommandsFile
 ```
+
+You can also pipe into `parallel`, which is useful when your command is reasonably simple:
+
+```sh
+find *.fastq.gz | parallel -j10 parse_fastq.py > fastq_info.txt
+```
+
 Or Tom's example which is one step more complicated: 
 
 ```sh
