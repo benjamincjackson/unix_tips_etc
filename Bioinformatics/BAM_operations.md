@@ -14,3 +14,8 @@ Get only sample (SM) info from the header
 ```
 samtools view -H $MYBAMFILE | grep "SM"
 ```
+
+Look at a small portion of the reads, by region mapped to, for example
+```
+samtools view $MYBAMFILE chr19:10000000-10000000
+```
