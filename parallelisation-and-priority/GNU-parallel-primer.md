@@ -33,8 +33,10 @@ Breaking this down you have the program GNU `parallel` being called.
 
 There are many, many, many more options and things that you can do. The idea of this little intro is to get you going with the simplest case. [Check out the GNU parallel pages for the proper manual.](https://www.gnu.org/doc/doc.html) 
  
- #### Killing GNU parallel processes
- If you want to kill all current and future instances of the stuff that you've run using GNU parallel, you can use `killall perl`
+#### Killing GNU parallel processes
+If you want to kill all future instances of the stuff that you've run using GNU parallel (because you realise you've made a mistake for example, and don't want everything to run to completion), you can use `killall perl`. This will kill the parallel instance.
+
+You will still have to kill the currently running instances of the commands you've submitted.
  
  #### Examples
  
