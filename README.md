@@ -46,11 +46,11 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 
 #### BAM files
 
-* [useful operations on BAM files](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bioinformatics/BAM_operations.md)
+* [useful shell operations on BAM files](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bioinformatics/BAM_operations.md)
 
 #### VCF files
 
-* [useful shell operations of VCF files](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bioinformatics/VCF_operations.md)
+* [useful shell operations on VCF files](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bioinformatics/VCF_operations.md)
 
 ## Git/github
 
