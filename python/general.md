@@ -1,6 +1,6 @@
 ### Installing packages
 
-Install pacakges for specific versions of Python (if you have more that one installed, which is likely) using pip in the following way:
+Install packages for specific versions of Python (if you have more that one installed, which is likely) using pip in the following way:
 
 ```sh
 pythonX.X -m pip install SomePackage
@@ -8,6 +8,15 @@ pythonX.X -m pip install SomePackage
 
 Where `X.X` is the Python version you want to install the packaged for, and `SomePackage` is the package you want to install, for example, Biopython.
 
+#### Checking if packages exist
+
+You can check what packages (and what version they are) are install using pip too:
+
+```sh
+pip freeze
+# or, for python3
+pip3 freeze
+```
 
 ### Passing command-line arguments to a Python script
 
