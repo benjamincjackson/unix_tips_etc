@@ -10,7 +10,7 @@ Where `X.X` is the Python version you want to install the packaged for, and `Som
 
 #### Checking if packages exist
 
-You can check what packages (and what version they are) are install using pip too:
+You can check what packages (and what version they are) are installed using pip too:
 
 ```sh
 pip freeze
