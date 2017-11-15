@@ -5,6 +5,12 @@
 ```sh
 # using apt-get to search for packages
 apt-cache search {search term(s)}
+
+# installing packages:
+sudo apt-get install SomePackage
+
+# uninstalling packages:
+sudo apt-get remove --auto-remove SomePackage
 ```
 
 #### yum
