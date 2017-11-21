@@ -12,7 +12,7 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 * [Installing/searching for packages/dependencies](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/installing_programs.md)
 * [Path](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/path.md)
 * [Arithmetic expansion](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/maths.md)
-* [Finding files](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/searching_for_files.md)
+* [Finding files/directories](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/searching_for_files.md)
 * [Zipping/unzipping files/directories](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/zipping.md)
 
 #### Parallelisation and Priority
