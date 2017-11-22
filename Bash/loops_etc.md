@@ -34,3 +34,11 @@ then
   do something
 fi
 ```
+Loop control
+
+```sh
+# skip current iteration of the loop with:
+continue
+# exit loop entirely with:
+break
+```
