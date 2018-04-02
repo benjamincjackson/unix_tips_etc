@@ -22,7 +22,7 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 * [killing processes](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/killing.md)
 
 #### Awk
-* [awk cheat cheat](https://github.com/benjamincjackson/unix_tips_etc/blob/master/awk/general.md)
+* [awk cheat sheet](https://github.com/benjamincjackson/unix_tips_etc/blob/master/awk/general.md)
 
 #### Terminal editors
 * [nano commands](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/nano.md)
