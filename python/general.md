@@ -47,6 +47,6 @@ parser.add_argument('vcf_file', help='the vcf file with SNP calls in it')
 args = parser.parse_args()
 
 # arguments specified on the command line:
-input_file_reference = args.reference_file[1]
-input_file_vcf = args.vcf_file[2]
+input_file_reference = args.reference_file
+input_file_vcf = args.vcf_file
  ```
