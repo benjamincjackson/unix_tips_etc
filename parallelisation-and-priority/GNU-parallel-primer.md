@@ -22,7 +22,7 @@ parallel -j5 "MyKewlScript {} > {}.out" ::: $(my-configs/*)
 
 Breaking this down you have the program GNU `parallel` being called.
 
- * The `-j5` flag is the number of simultaneous jobs you want to run. It's good to limit the process to a reasonable number of jobs.
+ * The `-j5` flag is the number of simultaneous jobs you want to run. It's good to limit the process to a reasonable number of jobs. You can also pass a file to the `-j` argument - changing this file will update the number of simultaneous jobs running. In this way you can update the number of parallel processes while GNU parallel is running.
 
  * The `MyKewlScript {} > {}.out` is the function that you want to run. The two closed curly brackets are place where the terms being passed from the list of variables at the end of the function go.
 
