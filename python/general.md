@@ -1,3 +1,6 @@
+### Shebang line
+`#!/usr/bin/env python3`
+
 ### Installing packages
 
 Install packages for specific versions of Python (if you have more that one installed, which is likely) using pip in the following way:
