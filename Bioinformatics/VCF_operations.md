@@ -19,3 +19,9 @@ Get the sample names from a VCF file
 ```sh
 bcftools query -l file.vcf.gz
 ```
+----
+View the header only
+
+```sh
+bcftools view -h file.vcf.gz
+```
