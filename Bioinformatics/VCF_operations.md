@@ -25,3 +25,10 @@ View the header only
 ```sh
 bcftools view -h file.vcf.gz
 ```
+
+----
+Subset a ~VCF file by samples
+
+```sh
+bcftools view -Oz -S samples.txt INFILE > OUTFILE.vcf.gz
+```
