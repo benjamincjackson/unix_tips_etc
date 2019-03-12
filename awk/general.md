@@ -15,3 +15,8 @@ Calculate the mean from the second (`$2`) column of a file. If you want to input
 ```awk
 awk '{ total += $2 } END { print total/NR }' infile.txt
 ```
+
+Sum the second (`$2`) column of a file. If you want to input multiple files you can cat them and then pipe into awk.
+```awk
+awk '{sum += $2} END {print sum}' infile.txt
+```
