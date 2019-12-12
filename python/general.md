@@ -2,6 +2,7 @@
 `#!/usr/bin/env python3`
 
 ### Python 3
+
 A neat way to be explicit about your scripts needing python3:
 
 ```python3
