@@ -1,7 +1,7 @@
 ### Shebang line
 `#!/usr/bin/env python3`
 
-### Python 3
+### Declaration that Python 3 is needed
 
 A neat way to be explicit about your scripts needing python3:
 
@@ -22,7 +22,7 @@ pythonX.X -m pip install SomePackage
 
 Where `X.X` is the Python version you want to install the packaged for, and `SomePackage` is the package you want to install, for example, Biopython.
 
-#### Checking if packages exist
+### Checking if packages exist
 
 You can check what packages (and what version they are) are installed using pip too:
 
