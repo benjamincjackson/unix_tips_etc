@@ -1,6 +1,16 @@
 ### Shebang line
 `#!/usr/bin/env python3`
 
+### Python 3
+A neat way to be explicit about your scripts needing python3:
+
+```python3
+import sys
+
+if sys.version_info[0] < 3:
+    raise Exception("Python 3 or a more recent version is required.")
+```
+
 ### Installing packages
 
 Install packages for specific versions of Python (if you have more that one installed, which is likely) using pip in the following way:
