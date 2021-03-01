@@ -34,6 +34,7 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 ## R
 
 * [commandArgs](https://github.com/benjamincjackson/unix_tips_etc/blob/master/R/commandArgs.md)
+* [RStudio](https://github.com/benjamincjackson/unix_tips_etc/blob/master/R/RStudio.md)
 * [checksum_check.R](https://github.com/benjamincjackson/unix_tips_etc/tree/master/R/checksum_check.R)
 
 ## Python
