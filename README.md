@@ -38,6 +38,7 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 
 ## Python
 * [Python basics, including parsing arguments on the command line](https://github.com/benjamincjackson/unix_tips_etc/blob/master/python/general.md)
+* [csv.DictReader()](https://github.com/benjamincjackson/unix_tips_etc/blob/master/python/csv.md)
 
 ## Octave
 * [Open the Octave GUI from the terminal](https://github.com/benjamincjackson/unix_tips_etc/blob/master/octave/GUI.md)
