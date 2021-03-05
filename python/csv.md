@@ -11,6 +11,8 @@ with open("sample_dates.csv", 'r', newline = '') as csv_in, \
     writer_fw.writeheader()
 
     for row in reader:
-        writer_fw.writerow(row)
+        writer_fw.writerow({"sequence_name": row["sequence_name"], "sample_date": row["sample_date"]})
         ...
 ```
+
+you can set the writer fieldnames to the reader field names with `fieldnames = reader.fieldnames`
