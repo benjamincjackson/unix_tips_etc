@@ -15,4 +15,4 @@ with open("sample_dates.csv", 'r', newline = '') as csv_in, \
         ...
 ```
 
-you can set the writer fieldnames to the reader field names with `fieldnames = reader.fieldnames`
+you can set the writer fieldnames to the reader fieldnames with `fieldnames = reader.fieldnames`
