@@ -12,6 +12,7 @@ with open("sample_dates.csv", 'r', newline = '') as csv_in, \
 
     for row in reader:
         writer.writerow({"sequence_name": row["sequence_name"], "sample_date": row["sample_date"]})
+        # writer.writerow({x: row[x] for x in writer.fieldnames})
         ...
 ```
 
