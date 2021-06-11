@@ -3,6 +3,7 @@ Profiling go code
 ```go
 import (
 	"fmt"
+	"log"
 	"os"
 	"runtime/pprof"
 )
