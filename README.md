@@ -62,6 +62,10 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 
 * [useful shell operations on VCF files](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bioinformatics/VCF_operations.md)
 
+#### tree files
+
+* [useful shell operations on tree files](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bioinformatics/tree_operations.md)
+
 ## Git/github
 
 * [Basic use](https://github.com/benjamincjackson/unix_tips_etc/blob/master/git/basics.md)
