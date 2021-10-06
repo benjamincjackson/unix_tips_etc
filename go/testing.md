@@ -1,5 +1,11 @@
 ## Testing and Benchmarks in go
 
+### code coverage
+
+[visualising code coverage](https://golangdocs.com/code-coverage-in-golang)
+
+### writing tests and benchmarks
+
 e.g. `main_test.go`
 
 ```go
@@ -41,3 +47,4 @@ go test ./...
 
 go test -bench=.
 ```
+
