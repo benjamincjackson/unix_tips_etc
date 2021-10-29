@@ -4,6 +4,8 @@
 
 [visualising test coverage](https://golangdocs.com/code-coverage-in-golang)
 
+e.g., run `go test -v ./... -coverprofile=coverage.out; go tool cover -html=coverage.out`
+
 ### writing tests and benchmarks
 
 e.g. `main_test.go`
