@@ -1,8 +1,8 @@
 ## Testing and Benchmarks in go
 
-### code coverage
+### test coverage
 
-[visualising code coverage](https://golangdocs.com/code-coverage-in-golang)
+[visualising test coverage](https://golangdocs.com/code-coverage-in-golang)
 
 ### writing tests and benchmarks
 
