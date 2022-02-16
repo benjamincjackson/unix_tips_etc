@@ -1,6 +1,6 @@
 Example use of csv.DictReader()
 
-```
+```.py
 import csv
 
 with open("sample_dates.csv", 'r', newline = '') as csv_in, \
