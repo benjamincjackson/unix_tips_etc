@@ -14,6 +14,7 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 * [Arithmetic expansion](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/maths.md)
 * [Finding files/directories](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/searching_for_files.md)
 * [Zipping/unzipping files/directories](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/zipping.md)
+* [Argument list too long](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/argument_list_too_long.md)
 
 #### Parallelisation and Priority
 * [Nice and Re-Nice](https://github.com/benjamincjackson/unix_tips_etc/blob/master/parallelisation-and-priority/nice-and-renice.md)
