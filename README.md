@@ -70,5 +70,6 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 ## Git/github
 
 * [Basic use](https://github.com/benjamincjackson/unix_tips_etc/blob/master/git/basics.md)
+* [Access/authentication](https://github.com/benjamincjackson/unix_tips_etc/blob/master/git/access.md)
 * [Making websites on Github](https://github.com/benjamincjackson/unix_tips_etc/blob/master/git/websites.md)
 
