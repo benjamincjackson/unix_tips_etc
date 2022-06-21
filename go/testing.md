@@ -50,3 +50,4 @@ go test ./...
 go test -bench=.
 ```
 
+The idiomatic way to force go to run cached tests is with `-count=1` after the `go test` command.
