@@ -1,5 +1,23 @@
 A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a repository of useful tips for Merlin use [here](https://github.com/TBooker/Tips-and-Tricks), but with more personal stuff in it.
 
+## R
+
+* [commandArgs](https://github.com/benjamincjackson/unix_tips_etc/blob/master/R/commandArgs.md)
+* [RStudio](https://github.com/benjamincjackson/unix_tips_etc/blob/master/R/RStudio.md)
+
+## Python
+* [Python basics, including parsing arguments on the command line](https://github.com/benjamincjackson/unix_tips_etc/blob/master/python/general.md)
+* [csv.DictReader()](https://github.com/benjamincjackson/unix_tips_etc/blob/master/python/csv.md)
+
+## Go
+* [testing and benchmarks](https://github.com/benjamincjackson/unix_tips_etc/blob/master/go/testing.md)
+* [profiling](https://github.com/benjamincjackson/unix_tips_etc/blob/master/go/profiling.md)
+* [code hygiene](https://github.com/benjamincjackson/unix_tips_etc/blob/master/go/hygiene.md)
+
+## Rust
+
+* [Error-handling](https://github.com/benjamincjackson/unix_tips_etc/blob/master/rust/errors.md)
+
 ## Bash
 
 #### General
@@ -31,24 +49,6 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 #### Misc
 
  * [Command Prompt Appearance](https://github.com/benjamincjackson/unix_tips_etc/blob/master/command-prompt/cmd-prompt.md)
-
-## R
-
-* [commandArgs](https://github.com/benjamincjackson/unix_tips_etc/blob/master/R/commandArgs.md)
-* [RStudio](https://github.com/benjamincjackson/unix_tips_etc/blob/master/R/RStudio.md)
-
-## Python
-* [Python basics, including parsing arguments on the command line](https://github.com/benjamincjackson/unix_tips_etc/blob/master/python/general.md)
-* [csv.DictReader()](https://github.com/benjamincjackson/unix_tips_etc/blob/master/python/csv.md)
-
-## Go
-* [testing and benchmarks](https://github.com/benjamincjackson/unix_tips_etc/blob/master/go/testing.md)
-* [profiling](https://github.com/benjamincjackson/unix_tips_etc/blob/master/go/profiling.md)
-* [code hygiene](https://github.com/benjamincjackson/unix_tips_etc/blob/master/go/hygiene.md)
-
-## Rust
-
-* [Error-handling](https://github.com/benjamincjackson/unix_tips_etc/blob/master/rust/errors.md)
 
 ## Octave
 * [Open the Octave GUI from the terminal](https://github.com/benjamincjackson/unix_tips_etc/blob/master/octave/GUI.md)
