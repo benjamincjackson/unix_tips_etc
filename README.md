@@ -46,6 +46,10 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 * [profiling](https://github.com/benjamincjackson/unix_tips_etc/blob/master/go/profiling.md)
 * [code hygiene](https://github.com/benjamincjackson/unix_tips_etc/blob/master/go/hygiene.md)
 
+## Rust
+
+* [Error-handling](https://github.com/benjamincjackson/unix_tips_etc/blob/master/rust/errors.md)
+
 ## Octave
 * [Open the Octave GUI from the terminal](https://github.com/benjamincjackson/unix_tips_etc/blob/master/octave/GUI.md)
 
