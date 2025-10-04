@@ -17,6 +17,7 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 ## Rust
 
 * [Error-handling](https://github.com/benjamincjackson/unix_tips_etc/blob/master/rust/errors.md)
+* [Testing](https://github.com/benjamincjackson/unix_tips_etc/blob/master/rust/testing.md)
 
 ## Bash
 
