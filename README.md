@@ -26,6 +26,7 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 
 * [Split strings in Bash](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/split-strings-in-shell.md)
 * [Aliases](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/Aliases.md)
+* [Linking files](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/linking.md)
 * [Helpful functions](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/functions.md)
 * [stdout & stderr](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/stderr-and-stdout.md)
 * [for, while, if](https://github.com/benjamincjackson/unix_tips_etc/blob/master/Bash/loops_etc.md)
