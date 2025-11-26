@@ -53,6 +53,10 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 
  * [Command Prompt Appearance](https://github.com/benjamincjackson/unix_tips_etc/blob/master/command-prompt/cmd-prompt.md)
 
+## Markdown
+
+ * [markdown](https://github.com/benjamincjackson/unix_tips_etc/blob/master/markdown/markdown.md)
+
 ## Octave
 * [Open the Octave GUI from the terminal](https://github.com/benjamincjackson/unix_tips_etc/blob/master/octave/GUI.md)
 
