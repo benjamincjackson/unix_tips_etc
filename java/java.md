@@ -46,7 +46,7 @@ Please visit http://www.java.com for information on installing Java.
 # potentially because $JAVA_HOME is empty
 ❯ echo $JAVA_HOME
 
-# after brew install jenv -ing, you can:
+# after following the installation instructions at www.jenv.be, you can:
 # list available jdks:
 ❯ jenv versions
 * system (set by /Users/bj5504/.jenv/version)
