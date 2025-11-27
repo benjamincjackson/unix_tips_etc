@@ -47,6 +47,8 @@ Please visit http://www.java.com for information on installing Java.
 ❯ echo $JAVA_HOME
 
 # after following the installation instructions at www.jenv.be, you can:
+# add the jdk you've just brew install-ed:
+❯ jenv add /opt/homebrew/opt/openjdk@11/libexec/openjdk.jdk/Contents/Home
 # list available jdks:
 ❯ jenv versions
 * system (set by /Users/bj5504/.jenv/version)
