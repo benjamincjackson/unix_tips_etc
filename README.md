@@ -20,6 +20,10 @@ A UNIX/programming/bioinformatics cheatsheet. Based on Tom's original idea of a 
 * [Testing](https://github.com/benjamincjackson/unix_tips_etc/blob/master/rust/testing.md)
 * [Parallelism / concurrency](https://github.com/benjamincjackson/unix_tips_etc/blob/master/rust/parallelism.md)
 
+## Java
+
+* [Installing and managing java/jdks on OSX](https://github.com/benjamincjackson/unix_tips_etc/blob/master/java/java.md)
+
 ## Bash
 
 #### General
